@@ -132,7 +132,7 @@ V_GS < V_th: → not enough field → no inversion layer → no channel → tran
 V_GS > V_th: → sufficient field → inversion layer forms → channel exists → current can flow 
 
 ### Two Operating Regions
--depends on how much voltage exists between the drain and source (V_DS)
+- depends on how much voltage exists between the drain and source (V_DS)
 
 Linear Region (triode region): 
 When V_DS is small the channel is uniform from source to drain and behaves like a simple resistor (or like a closed switch (minimal resistance and passes current)). The higher the V_DS, the current flow increases almost linearly (not exactly linear because the channel becomes slightly thinner in the drain).
