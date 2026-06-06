@@ -49,9 +49,15 @@ This project progressively builds from fundamental device physics, PN junctions 
 
 ### PN Junction I-V Curve
 ![PN Junction](figures/iv_curve.png)
+*Flat reverse bias region, exponential current rise past the 0.6V forward bias threshold (characteristic of silicon)*
 
 ### Doping Variation
 ![Doping Variation](figures/doping_variation.png)
+*Heavier doping shifts the turn-on voltage to the right, reflecting the effect of ion implantation dose on junction behavior*
 
 ### MOSFET I-V Characteristics 
 ![MOSFET](figures/mosfet_curves.png)
+*Linear region at low V_DS transitions into saturation region where current is controlled entirely by V_GS*
+
+## Background
+Built as foundational knowledge for process engineering in semiconductor manufacturing, connecting device-level behavior to the fabrication parameters that create it. 
