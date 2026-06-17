@@ -41,9 +41,10 @@ This project progressively builds from fundamental device physics, PN junctions 
 ## How to Run
 
 1. Clone this repository 
-2. Open Anaconda and launch Jupyter Notebook
-3. Navigate to the project folder
-4. Run each notebook in order (01 → 02 → 03)
+2. Install dependencies: `pip install numpy matplotlib`
+3. Open Anaconda and launch Jupyter Notebook
+4. Navigate to the project folder
+5. Run each notebook in order (01 → 02 → 03)
 
 ## Results
 
